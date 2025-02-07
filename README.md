@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Bomfim 👋👋
 
-Estudante de Ciência da computação no Instituto Mauá de Tecnologia.
+Estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
 
 ### Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bomfim-132b192b1/)
